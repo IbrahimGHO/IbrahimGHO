@@ -7,6 +7,7 @@ Cloud computing and DevOps enthusiast. I have experience in designing scalable s
 
 ### 🔥 Latest Repo:
 [![Your Repository's Name](https://github-readme-stats.vercel.app/api/pin/?username=IbrahimGHO&repo=AWS_ApiGateway_RESTfulAPI)](https://github.com/IbrahimGHO/AWS-HTTP-API)
+[![Your Repository's Name](https://github-readme-stats.vercel.app/api/pin/?username=IbrahimGHO&repo=IaC-library-Terraform)](https://github.com/IbrahimGHO/IaC-library-Terraform) 
 
 
 ---
